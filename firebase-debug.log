@@ -1,0 +1,21 @@
+[debug] [2022-09-09T02:01:20.734Z] ----------------------------------------------------------------------
+[debug] [2022-09-09T02:01:20.737Z] Command:       C:\Users\P\DOWNLO~1\firebase-tools-instant-win.exe C:\Users\P\.cache\firebase\tools\lib\node_modules\firebase-tools\lib\bin\firebase init
+[debug] [2022-09-09T02:01:20.738Z] CLI Version:   11.8.1
+[debug] [2022-09-09T02:01:20.738Z] Platform:      win32
+[debug] [2022-09-09T02:01:20.738Z] Node Version:  v16.16.0
+[debug] [2022-09-09T02:01:20.740Z] Time:          Fri Sep 09 2022 05:01:20 GMT+0300 (Eastern European Summer Time)
+[debug] [2022-09-09T02:01:20.740Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-09-09T02:01:20.751Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-09-09T02:01:20.752Z] > authorizing via signed-in user (zshabkalieh@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\P\AndroidStudioProjects\fbissalama
+

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1033632071258",
+    "firebase_url": "https://bissalama-ce5b1-default-rtdb.firebaseio.com",
+    "project_id": "bissalama-ce5b1",
+    "storage_bucket": "bissalama-ce5b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033632071258:android:e3685aee6ee0eed3832263",
+        "android_client_info": {
+          "package_name": "com.example.fbissalama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033632071258-djkuqtrh2pgov8i3tvkbs7l7tle2lni9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fbissalama",
+            "certificate_hash": "7ea62be06bd660ac1f572279816cc24c21f2effe"
+          }
+        },
+        {
+          "client_id": "1033632071258-23sblf3a69j8ii0tj9k5e4342k2et0fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD08LgUxK74JdAABzdQdD7yRWZeYIz3F0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033632071258-23sblf3a69j8ii0tj9k5e4342k2et0fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
